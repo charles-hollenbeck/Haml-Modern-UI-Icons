@@ -1,6 +1,6 @@
 # Haml Partials for the [Modern UI Icons][Modern UI Icons]
 
-I made this repo due to wanting an easy way to load in the icons from [Modern UI Icons][Modern UI Icons] and be able to recolor them. All of the files in this repo were made with a quick ruby script I cooked up in about a 5 minute time period so please report if any of the icons are broken/incorrect/throw an error.
+I made this repo due to wanting an easy way to load in the icons from [Modern UI Icons][Modern UI Icons] and be able to recolor them. All of the files in this repo were made with a quick ruby script I cooked up in about a 5 minute time period so please make an issue or pull request if any of the icons are broken/incorrect/throw an error.
 
 ## Features
 * Easy load in
